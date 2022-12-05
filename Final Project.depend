@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1669015137 source:c:\users\sapex\documents\code blocks\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	"Die.h"
+	"Mugwump.h"
+	"Warrior.h"
+
+1668992399 c:\users\sapex\documents\code blocks\final project\die.h
+
+1669014640 c:\users\sapex\documents\code blocks\final project\mugwump.h
+
+1669006684 c:\users\sapex\documents\code blocks\final project\warrior.h
+
+1669005943 source:c:\users\sapex\documents\code blocks\final project\die.c
+	<stdio.h>
+	<stdlib.h>
+	"Die.h"
+
+1669015045 source:c:\users\sapex\documents\code blocks\final project\mugwump.c
+	<stdio.h>
+	<stdlib.h>
+	"Mugwump.h"
+	"Die.h"
+
+1669015137 source:c:\users\sapex\documents\code blocks\final project\warrior.c
+	<stdio.h>
+	<stdlib.h>
+	"Warrior.h"
+	"Die.h"
+
